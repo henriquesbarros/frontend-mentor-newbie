@@ -4,6 +4,6 @@
 
 ![QR Code Component](./qr-code-component/public/desktop-design.jpg)
 
-## 2. Blog Preview Card
+## 2. [Blog Preview Card](https://blog-preview-card-five-fawn.vercel.app/)
 
 ![Blog Preview Card](./blog-preview-card/public/desktop-design.jpg)
