@@ -20,12 +20,12 @@ export default {
       fontSize: {
         preset1: [
           "24px",
-          { lineHeight: "150%", letterSpacing: "0px", fontWeight: "700" },
-        ], // Bold
-        preset2: [
-          "14px",
           { lineHeight: "150%", letterSpacing: "0px", fontWeight: "600" },
         ], // Semibold
+        preset2: [
+          "14px",
+          { lineHeight: "150%", letterSpacing: "0px", fontWeight: "400" },
+        ], // Regular
         preset2Bold: [
           "14px",
           { lineHeight: "150%", letterSpacing: "0px", fontWeight: "700" },

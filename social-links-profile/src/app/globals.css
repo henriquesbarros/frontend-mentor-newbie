@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .link-item {
+    @apply text-white w-full bg-gray-700 text-center rounded-lg text-preset2Bold hover:bg-green hover:text-black cursor-pointer transition-all duration-100;
+
+    a {
+      @apply block w-full h-full p-150;
+    }
+  }
+}
