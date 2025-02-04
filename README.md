@@ -8,6 +8,6 @@
 
 ![Blog Preview Card](./blog-preview-card/public/desktop-design.jpg)
 
-## 3. Social Links Profile
+## 3. [Social Links Profile](https://social-links-profile-delta-seven.vercel.app/)
 
 ![Social Links Profile](./social-links-profile/public/desktop-design.jpg)
