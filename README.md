@@ -7,3 +7,7 @@
 ## 2. [Blog Preview Card](https://blog-preview-card-five-fawn.vercel.app/)
 
 ![Blog Preview Card](./blog-preview-card/public/desktop-design.jpg)
+
+## 3. Social Links Profile
+
+![Social Links Profile](./social-links-profile/public/desktop-design.jpg)
