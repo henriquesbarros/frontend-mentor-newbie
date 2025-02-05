@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import { Young_Serif, Outfit } from "next/font/google";
 import "./globals.css";
 
-export const outfit = Outfit({
+const outfit = Outfit({
   subsets: ["latin"],
   weight: ["400", "600", "700"],
   variable: "--font-outfit",
 });
 
-export const youngSerif = Young_Serif({
+const youngSerif = Young_Serif({
   subsets: ["latin"],
   weight: ["400"],
   variable: "--font-young-serif",
